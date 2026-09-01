@@ -1,0 +1,11 @@
+# служебное — на сайте не нужно, только раздувает выгрузку
+.git
+.gitignore
+*.py
+*.bak
+*.log
+_pages.txt
+_failed.txt
+_added_articles.txt
+.env.local
+__pycache__
